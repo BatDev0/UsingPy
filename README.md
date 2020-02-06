@@ -1,6 +1,5 @@
 # UsingPy
-
-This python package, will give you the C# Import Library combatibilty. 
+Want to learn Python? Used to C# Imports. Well, you have came to the right github repo. In this python package, you can use the using function to import any python library. This will help you maximise your learning and help you on your way to learn.
 
 C# Code:
 
@@ -10,6 +9,10 @@ using System
 Python Code:
 ```
 using(Sys, 1)
+```
+OR
+```
+using(Sys)
 ```
 
 # Paramaters
