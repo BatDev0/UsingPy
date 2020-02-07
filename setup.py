@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='UsingPy',
-      version='0.1',
+      version='0.1.1',
       description='C# Using in Python',
       url='http://github.com/BatDev0/UsingPy',
       author='BatDev0',
