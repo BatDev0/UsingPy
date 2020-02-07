@@ -8,11 +8,11 @@ using System
 ```
 Python Code:
 ```
-using(Sys, 1)
+UsingPy.using(Sys, 1)
 ```
 OR
 ```
-using(Sys)
+UsingPy.using(Sys)
 ```
 
 # Paramaters
@@ -27,11 +27,8 @@ using(<Package>,<Import All?>)
 
 ### How to import?
 
-As of now, I dont have the package up and running. So you can download the repo (GITHUB) import the python file. And use it like that.
-
-I would like to have it like this.
-
-```
-import pyUsing
-from pyUsing import *
-```
+First you are going to install it. Using the this command.
+  `pip install UsingPy`
+Then you are going to go into your python file and do this at the top.
+  `import UsingPy`
+It should import UsingPy. Then you can just use the commands.
